@@ -4,6 +4,10 @@ Automatically reveal the active Blender object in the Outliner. Select an object
 
 在视图中选择物体，Outliner 自动展开层级并定位当前活动物体。
 
+![Kuanfu Outliner Focus illustrated demo: selecting Ring, Sphere and Cube reveals each object in the Outliner.](assets/outliner-focus-demo.gif)
+
+*功能示意动画，模型由 Blender 渲染，并非界面录屏。Illustrated workflow, not a screen recording.*
+
 ## Installation / 安装
 
 1. Download `kuanfu-outliner-focus-v1.0.0.zip` from [Releases](https://github.com/kuanfuweimu/kuanfu-outliner-focus/releases/latest). Use the named installation ZIP, not GitHub's source archive.
